@@ -1,0 +1,8 @@
+[package]
+name = "say_hello"
+version = "0.1.0"
+authors = ["richcao <richcao@tencent.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
