@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["richcao <richcao@tencent.com>"]
 edition = "2018"
 license = "MIT"
+description = "this is a test lib for cargo.io. useless"
 
 [dependencies]
